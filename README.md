@@ -1,2 +1,5 @@
-# frontend-mentor
-Just to learn with frontend-mentor
+# Frontend-mentor-challenges
+
+Repository to archive the challenges from frontendmentor.io
+
+Repositório para arquivar os desafios do frontendmentor.io
